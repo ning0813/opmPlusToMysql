@@ -451,7 +451,7 @@ func readExcel() {
 					}
 					if matched {
 						//fmt.Println("+++++++", col[i])
-						getMonitorData(col[i])
+						//getMonitorData(col[i])
 					}
 
 				}
